@@ -27,10 +27,6 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/1maka3/1maka3/blob/output/github-contribution-grid-snake.svg)
   
-</div>
-
-<div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
 </div>
