@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/guilherme-santos-8a8304221/"><i>Guilherme Henrique Ferreira dos Santos</i></a> 😃️</h1>
+  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/guilherme-santos-a29451328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><i>Guilherme Henrique Ferreira dos Santos</i></a> 😃️</h1>
   <p align="center">Estudo Analise e Desenvolvimento de Sistemas na FATEC Americana atualmente no 6º Semestre<a>
 </div>
 
